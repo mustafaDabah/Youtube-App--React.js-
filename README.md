@@ -1,1 +1,3 @@
-# Youtube-App--React.js-
+firebase init
+
+AIzaSyD778r9ozRcj63lraZTuMHFHGo56Fez-1U
