@@ -15,7 +15,7 @@ patterns recommended by the documentation. Some of the tools used include: <br /
 
 It is a work in progress, and my first real project with React. Any tips on how to better write the  18 code, manage the folder structure, etc would be really appreciated. <br />
 
-The future of this project: <br />
+The features of this project: <br />
 
 * Create an authentication flow by useing firebase . 
 * create six pages (Home , Watch Video , Channel , Watch Later , Subscribes , Search  ) .
